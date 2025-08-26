@@ -15,7 +15,7 @@ This project is perfect for beginners to practice **Python basics, file handling
 Clone the repository, go inside the folder, and run the script:
 
 ```bash
-   git clone https://github.com/your-username/contact-book-cli.git
+   git clone https://github.com/TaibDar/Contact_book_CLI.git
    cd contact-book-cli
    python contact_book.py
 ```
